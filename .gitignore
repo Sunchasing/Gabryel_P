@@ -1,0 +1,6 @@
+**/venv/
+**/.idea/
+**/creds/
+**/poc/
+**/*.pyc
+**/.pytest_cache/
