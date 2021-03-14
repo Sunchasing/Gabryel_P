@@ -1,4 +1,5 @@
 # Gabryel v1
+Public mirror of Gabryel repo
 
 ## Description
 
@@ -10,7 +11,7 @@ The  program leverages the python wrapper for Google's OAuth2 API to periodicall
 
 1. You can clone using git bash.
 
-​      git clone https://www.github.com/Sunchasing/Gabryel.git
+​      git clone https://www.github.com/Sunchasing/Gabryel_P.git
 
 2. Using python >3.6, build the virtual environment by running Scripts\build_windows.ps1 with powershell.
 
